@@ -6,7 +6,7 @@
 
 ### How to set it up
 
-- git clone 
+- git clone https://github.com/AsjadOooO/Web-Broswer.git
 
 - cd Web-Broswer
 
@@ -16,7 +16,7 @@
 
 
 ### Preview
-![image](https://github.com/AsjadOooO/)
+![image](https://github.com/AsjadOooO/Web-Broswer/blob/main/image.png)
 
 
 ### Developer 
